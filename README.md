@@ -4,6 +4,8 @@
 Bootcamp Santander 2025 - Ciência de Dados com Python
 ---------------------------------------------------------------------------------------
 
+<img width="1338" height="692" alt="Dashboard REDMI" src="https://github.com/user-attachments/assets/31105755-653b-4925-b837-b05c676050be" />
+
 Este projeto consiste em um Dashboard interativo desenvolvido no Microsoft Excel, focado na análise de desempenho de vendas de serviços e passes de temporada da marca Xbox. O objetivo foi transformar dados brutos em uma interface analítica moderna que facilite a tomada de decisão estratégica.
 
 🎨 Decisões de Design e Identidade Visual
